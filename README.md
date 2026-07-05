@@ -1,2 +1,20 @@
-# E-Commerce-Billing-Platform-with-Scientific-Calculator
-CloudBill is a SaaS-based e-commerce billing and inventory management platform built with React and Firebase. It offers secure authentication, real-time Firestore database, GST invoice generation, customer &amp; product management, inventory tracking, sales analytics, responsive dashboards, and cloud deployment for modern businesses.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/5b1f62fd-56ad-4f0e-b09b-db6779fac8d0
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

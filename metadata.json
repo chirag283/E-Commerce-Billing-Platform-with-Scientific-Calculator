@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Billing Platform with Scientific Calculator",
+  "description": "Multi-tenant SaaS Billing & POS Management System featuring deep tenant onboarding, RBAC simulators, real-time inventory tracking, network thermal ESC/POS printing, and full analytical dashboards powered by PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
